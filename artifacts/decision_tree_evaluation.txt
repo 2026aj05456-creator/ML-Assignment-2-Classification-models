@@ -1,0 +1,14 @@
+Decision Tree
+
+              precision    recall  f1-score   support
+
+   malignant       0.85      0.93      0.89        42
+      benign       0.96      0.90      0.93        72
+
+    accuracy                           0.91       114
+   macro avg       0.90      0.92      0.91       114
+weighted avg       0.92      0.91      0.91       114
+
+Confusion matrix:
+[[39  3]
+ [ 7 65]]

@@ -1,0 +1,14 @@
+Gaussian Naive Bayes
+
+              precision    recall  f1-score   support
+
+   malignant       0.93      0.90      0.92        42
+      benign       0.95      0.96      0.95        72
+
+    accuracy                           0.94       114
+   macro avg       0.94      0.93      0.93       114
+weighted avg       0.94      0.94      0.94       114
+
+Confusion matrix:
+[[38  4]
+ [ 3 69]]
